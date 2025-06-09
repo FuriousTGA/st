@@ -21,7 +21,7 @@ scrollback mouse
 - `Ctrl + Shift + C` & `Ctrl + Shift + V` 
 
 ### Scroll Up & Down [Keyboard]
-- `Shift + J` & `Shift + K` 
+- `Alt + J` & `Alt + K` 
 
 ### Scroll Up & Down [Mouse]
 - `Shift + MouseWheel Up` & `Shift + MouseWheel Down` 

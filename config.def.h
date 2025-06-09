@@ -198,8 +198,8 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_plus,        zoom,           {.f = +1} },
 	{ TERMMOD,              XK_C,           clipcopy,       {.i =  0} },
 	{ TERMMOD,              XK_V,           clippaste,      {.i =  0} },
-	{ ShiftMask,            XK_K,           kscrollup,      {.i = +KEYBOARDSCROLLSPEED} },
-	{ ShiftMask,            XK_J,           kscrolldown,    {.i = +KEYBOARDSCROLLSPEED} },
+	{ MODKEY,               XK_k,           kscrollup,      {.i = +KEYBOARDSCROLLSPEED} },
+	{ MODKEY,               XK_j,           kscrolldown,    {.i = +KEYBOARDSCROLLSPEED} },
 
 /*{ XK_ANY_MOD,           XK_Break,       sendbreak,      {.i =  0} },
 	{ ControlMask,          XK_Print,       toggleprinter,  {.i =  0} },
